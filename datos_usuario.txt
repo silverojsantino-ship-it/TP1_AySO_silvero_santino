@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD Ryzen 5 4500 6-Core Processor
