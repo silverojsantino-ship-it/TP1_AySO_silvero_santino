@@ -1,0 +1,297 @@
+exit
+pwd
+ls
+mkdir Clase4
+ms -l
+ls -l
+cd Clase4
+pwd
+ls -l
+cat archivo1.txt
+cat > archivo1.txt
+ls -l
+cat > archivo2.txt
+ls -l
+cat archivo1.txt archivo2.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+grep Linea4 archivo3.txt
+grep -c Linea4.txt
+hrep -n Linea4 archivo3.txt
+grep -n Linea4 archivo3.txt
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+pwd
+cd ~
+pwd
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:silverojsantino-ship-it/vmvagrant_repo.git
+ls -l
+cd vmvagrant_repo/
+ls -l
+eco "Mi primer repo"
+echo "Mi primer repo"
+echo "Mi primer repo" > texto1.txt
+cat texto1.txt 
+ls -l
+git add .
+git status
+git commit -m "Mi primer commit"
+git config --global user.email "silvero.j.santino@gmail.com"
+git config --global user.name "silverojsantino-ship-it"
+git commit -m "agrego texto.txt"
+git status
+ls -l
+git push 
+exit
+echo hola
+echo "Hoy es un gran dia"
+echo $HOME
+cd..
+cd ..
+ls
+cd ..
+ls
+vagrant alt
+vagrant halt
+cd home
+vagrant halt
+cd ..
+pwd
+vagrant halt
+pwd
+ls
+cd home
+ls
+cd vagrant/
+vagrant halt
+ls
+pwd
+cd repogit/
+agrant halt
+vagrant halt
+pwd
+cd ..
+ls
+man echo 
+ls
+ls -l
+cat README 
+cd repogit
+ls -l
+cd ..
+ls -l
+pwd
+cd Clase4/
+ls -l
+cat archivo3.txt 
+git commit archivo3.txt 
+git 
+git add archivo3.txt 
+.git
+clear
+pw
+owd
+pwd
+cd ..
+ls -l
+cd repogit/
+ls -l
+cd ..
+ssh-key
+ssh-keygen
+ls -l
+vagrant halt
+ls -l
+nnnlslslslsshlhl
+ls -la
+ls -l
+cd repogiy
+cd repogit/
+ls -l
+cd vmvagrant_repo/
+ls -l
+cd ..
+cd vmvagrant_repo/
+ls -l
+cat texto1.txt 
+echo "Mi segundo repo" > texto2.txt
+ls -l
+git add texto2.txt 
+git commit 
+git status
+git commit -m "Segundo cambio en git"
+git status
+ls -l
+git push 
+git commit -m "Chau"
+git add .
+ls -l
+git status
+echo >> texto2.txt "Chau"
+git add .
+git status
+git commit -m "Chau"
+git push
+vagrant halt
+cd ..
+pwd
+cd ..
+vagrant halt
+cd ..
+pwd
+ls -l
+cd home
+ls -l
+cd vagrant/
+ld -l
+cd ..
+cd $home
+ls 
+vagrant halt
+exit
+ls -l
+cs Clase4/
+cd Clase4/
+ls -l
+cd ..
+ls -l
+mkdir Clase5
+ls -l
+cd Clase5
+cd ..
+rmdir Clase5
+mkdir practica
+ls -l
+cd practica/
+cd ..
+mkdir practica/
+rmdir practica/
+ls -l
+cd clase4
+cd Clase4/
+mkdir practica
+ls -l
+cd practica/
+cd $home
+ls -l
+mkdir TP_AySo
+ls -l
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub
+cd $home
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:silverojsantino-ship-it/TP1_AySO_silvero_santino.git
+ls -l
+git clone cd $home
+ls -l
+cd ..
+ls -l
+cd repogit
+ls -l
+0 23:01 repogit
+cd TP1_AySO_silvero_santino/
+ls -l
+cat cat /etc/os-release
+grep -i HOME_URL
+ls -l
+grep -i home_url /etc/os-release
+grep HOME_URL /etc/os-release 
+grep home_url /etc/os-release 
+grep -i Home_url /etc/os-release
+cat > datos_url.txt HOME_URL="https://www.ubuntu.com/"
+ls -l
+cat datos_url.txt 
+echo datos_url.txt "HOME_URL="https://www.ubuntu.com/""
+cat datos_url.txt 
+rm datos_url.txt 
+ls -l
+cat datos_url.txt
+ls -l
+cat dator_url.txt > hola
+ls -l
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -l
+cat datos_url.txt 
+rm hola
+ls -l
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+git add .
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+ls -l
+cat datos_usuario.txt 
+tail -n1
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuarios.txt
+ls -l
+rm datos_usuarios.txt 
+cat/proc/cpuinfo
+cat /proc/cpuinfo 
+grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo tail -n1
+grep "model name" /proc/cpuinfo head -n1
+grep "model name" tail -n1 /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+dit add .
+git add .
+git commit “feat: Añadiendo información de CPU”
+git status
+git push
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "FEAT: Se agrego la informacion de CPU"
+git push
+ls -l
+cat <<EOF >> README.md
+Alumno: Santino
+Division: 133
+Turno: Mañana
+EOF
+
+git add README.md datos_usuarios.txt
+git add .
+git status
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3}
+ls -l
+ls materia1
+ls materia2
+nano script_dir.sh
+ls -l
+ls
+ls -l
+rm script_dir.sh 
+ls -l
+nano script_dir.sh
+ls -l
+chmod +x script_dir.sh
+ls -l
+./script_dir.sh
+ls -l
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
